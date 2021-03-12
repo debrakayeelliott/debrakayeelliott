@@ -1,4 +1,4 @@
-### Hi :wave::skin-tone-5:
+### Hi :hand::skin-tone-5:
 
 I'm Debra-Kaye, 
 <!--
