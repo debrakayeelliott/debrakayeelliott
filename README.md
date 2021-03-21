@@ -10,8 +10,8 @@ Fast-forward to years later and learning about web development, the path into te
 Here are some ideas to get you started:
 -->
   * 🔭 I’m currently working on building my portfolio
-..* :writing_hand::skin-tone-5: I blog on <a href="https://dev.to/debrakayeelliott"></a>
-..* :computer: I’m currently learning CSS
+  * :writing_hand::skin-tone-5: I blog on <a href="https://dev.to/debrakayeelliott"></a>
+  * :computer: I’m currently learning CSS
 ..* :briefcase: I’m looking to collaborate on junior HTML & CSS projects
 ..* 💬 Ask me about learning web development
 ..* 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/debrakayeelliott/) and [Twitter](https://twitter.com/debrakayelliott)
