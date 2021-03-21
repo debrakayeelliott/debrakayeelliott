@@ -13,7 +13,7 @@ Here are some ideas to get you started:
   * :pencil: ~ I blog in the <a href="https://dev.to/debrakayeelliott" target="_blank">developer community</a>
   * :art: ~ I design <a href="https://flickr.com/photos/debrakayeelliott/" target="_blank">PDF resources</a> and <a href="https://www.instagram.com/debrakayeelliott/" target="_blank">social media images</a>  
   * :computer: ~ I’m currently learning CSS
-  * :briefcase: ~ I’m looking to collaborate on junior HTML & CSS projects
+  * :briefcase: ~ I’m looking to collaborate on junior web design, HTML & CSS projects
   * 💬 ~ Ask me about learning web development
   * :inbox_tray: ~ Contact me on [LinkedIn](https://www.linkedin.com/in/debrakayeelliott/) and [Twitter](https://twitter.com/debrakayelliott)
   * :books: ~ Fiction novels are my jam
