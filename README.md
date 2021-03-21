@@ -1,4 +1,4 @@
-### Hi :wave::skin-tone-5:
+### Hi ,
 
 I'm Debra-Kaye, front end developer, graphic designer and blogger. A lover of tech for many years, writing code seemed like something only the "rocket scientists" of the world could do. After completing my Bachelor of Science Degree in Information Technology, Cum Laude at the University College of the Caribbean, I fell into the administrative and customer service fields, instead of tech as intended.
 
