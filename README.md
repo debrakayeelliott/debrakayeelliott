@@ -116,7 +116,7 @@
 <p align="center">
 	&nbsp&nbsp&nbsp
 	<a href="https://twitter.com/debrakayelliott" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/twitter/twitter-original.svg" alt="debrakayeelliott" height="23" width="30" /></a>&nbsp&nbsp
-	<a href="https:www.linkedin.com/in/debrakayeelliott" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>&nbsp&nbsp&nbsp
+	<a href="https://www.linkedin.com/in/debrakayeelliott" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>&nbsp&nbsp&nbsp
 	
 </p>
 <br>
