@@ -60,24 +60,24 @@
 				</div>
 			</td>
 			<td width="50%">
-				<h3 align="center">Sweet Aroma Landing Page</h3>
+				<h3 align="center">Finovo Landing Page</h3>
 				<div align="center">  
-					<a href="https://sweetaroma.netlify.app" target="_blank">
+					<a href="https://finovofinance.netlify.app" target="_blank">
 						<img src="https://github.com/debrakayeelliott/debrakayeelliott/blob/main/assets/github-profile-project-2.jpg?raw=true" alt="project 2" height="100%" />
 					</a>
 					<br>
 					<br>
 					<p>
-						<a href="https://github.com/debrakayeelliott/sweet-aroma" target="_blank">
+						<a href="https://github.com/debrakayeelliott/finovo.git" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://sweetaroma.netlify.app" target="_blank">
+						<a href="https://finovofinance.netlify.app" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>
 					</p>
 					<p><strong>HTML, CSS</strong></p>
           <p>
-						Landing page for a candle business, showcasing premium packages. Built with HTML and CSS, and is mobile responsive.
+						Landing page for a financial company, showcasing business finance optimization and workflow services. Built with HTML and CSS, and is mobile responsive.
 					</p>
 				</div>
 			</td>
