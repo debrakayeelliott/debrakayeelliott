@@ -1,5 +1,5 @@
 <div id="" align="center">
-  <img src="https://github.com/debrakayeelliott/debrakayeelliott/blob/main/assets/github-profile-banner.jpg?raw=true" width="100%"/>
+	<img src="https://github.com/debrakayeelliott/debrakayeelliott/blob/main/assets/github-profile-banner.jpg?raw=true" width="100%"/>
 </div>
 <br>
 <h1 align="center">Hi 👋🏾, I'm Debra-Kaye</h1>
