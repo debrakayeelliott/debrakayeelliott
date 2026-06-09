@@ -3,14 +3,14 @@
 </div>
 <br>
 <h1 align="center">Hi 👋🏾, I'm Debra-Kaye</h1>
-<h3 align="center">Website Administrator / Web Developer from Jamaica, West Indies</h3>
+<h3 align="center">Web Content Manager & Administrator from Jamaica, West Indies</h3>
 <br>
 <ul>
 <li>Focused on creating aesthetic, engaging and user-friendly websites and experiences.</li>
-<li>I have a Bachelor of Science degree in Information Technology, Cum Laude, and a background in web design, office administration, customer service and graphic design.</li>
+<li>I have a Bachelor of Science degree in Information Technology, Cum Laude, and a background in web design, office administration, and customer service.</li>
 <li>An active member of the developer community, I blog about my journey into tech and was featured as <a href="https://community.codenewbie.org/codenewbie/debra-kaye-elliott-the-go-getter-43mh" target="_blank">CodeNewbie's Community Spotlight Member for February 2021</a>.</li>
 <li>The tools I'm experienced with include Figma and Google Analytics.</li>
-<li>Outside of tech, I enjoy reading fiction novels and manhwa / manga, watching movies, anime and tv shows.</li> 
+<li>Outside of tech, I enjoy reading fiction novels, watching movies and tv shows.</li> 
 </ul>
 <br>
 <hr>
